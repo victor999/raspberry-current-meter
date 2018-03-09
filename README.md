@@ -1,6 +1,10 @@
 # raspberry-current-meter
 Raspberry Pi, current/voltage meter INA219, and data visualization by the web interface.
 
+Project info: https://hackaday.io/project/74265-power-logger-with-raspberry-pi
+
+
+
 You need to setup Raspberry Pi (minimal raspbian image) with something like this
 
 sudo apt-get install python-pip libglib2.0-dev git apache2
