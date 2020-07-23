@@ -29,3 +29,8 @@ For the mySQL database:
 CREATE DATABASE ina_data;
 
 CREATE TABLE `ina_data`.`ina_values` ( `id` INT NOT NULL AUTO_INCREMENT , `bus_voltage` FLOAT NOT NULL , `load_voltage` FLOAT NOT NULL , `current` FLOAT NOT NULL , `millisec` INT NOT NULL , `timestamp` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP , PRIMARY KEY (`id`)) ENGINE = InnoDB;
+
+
+You can support me and buy me a coffee here
+
+https://www.buymeacoffee.com/vitjka
